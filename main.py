@@ -59,9 +59,9 @@ def add_index(c):
 
 if __name__ == '__main__':
     con = psycopg2.connect(user="postgres", password="12345", port=5432, database="customers")
-    #create(con)
-    #inserting(con, times=1000000)
-    #add_index(con)
-    analyze_btree(con)
+    create(con)#creating 2 identical dbs
+    inserting(con, times=1000000)#function for inserting identical random data to 2 dbs
+    add_index(con)#adding indexes according to the lab
+    analyze_btree(con)#analyzing btree on column=name in customer1 db
     print()
-    analyze_hash(con)
+    analyze_hash(con)#analyzing hash on column=id in customer2 db
