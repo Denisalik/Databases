@@ -63,5 +63,5 @@ if __name__ == '__main__':
     inserting(con, times=1000000)#function for inserting identical random data to 2 dbs
     add_index(con)#adding indexes according to the lab
     analyze_btree(con)#analyzing btree on column=name in customer1 db
-    print()
+    print()#time for retrieving data is less with indexes
     analyze_hash(con)#analyzing hash on column=id in customer2 db
