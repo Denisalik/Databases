@@ -1,0 +1,274 @@
+[{
+  "_id": {
+    "$oid": "6062e80316237322a8c851f7"
+  },
+  "address": {
+    "coord": [
+      -73.98306099999999,
+      40.7441419
+    ]
+  },
+  "borough": "Manhattan",
+  "cuisine": "American ",
+  "name": "Desmond'S Tavern"
+},{
+  "_id": {
+    "$oid": "6062e80316237322a8c85200"
+  },
+  "address": {
+    "coord": [
+      -73.8221418,
+      40.7272376
+    ]
+  },
+  "borough": "Queens",
+  "cuisine": "Jewish/Kosher",
+  "name": "Shimons Kosher Pizza"
+},{
+  "_id": {
+    "$oid": "6062e80316237322a8c8520c"
+  },
+  "address": {
+    "coord": [
+      -74.10465599999999,
+      40.58834
+    ]
+  },
+  "borough": "Staten Island",
+  "cuisine": "American ",
+  "name": "Richmond County Country Club"
+},{
+  "_id": {
+    "$oid": "6062e80316237322a8c85237"
+  },
+  "address": {
+    "coord": [
+      -73.9812843,
+      40.5947365
+    ]
+  },
+  "borough": "Brooklyn",
+  "cuisine": "Pizza/Italian",
+  "name": "Lb Spumoni Gardens"
+},{
+  "_id": {
+    "$oid": "6062e80316237322a8c85289"
+  },
+  "address": {
+    "coord": [
+      -73.951199,
+      40.7166026
+    ]
+  },
+  "borough": "Brooklyn",
+  "cuisine": "Italian",
+  "name": "Bamonte'S Restaurant"
+},{
+  "_id": {
+    "$oid": "6062e80316237322a8c852c0"
+  },
+  "address": {
+    "coord": [
+      -73.924072,
+      40.76108900000001
+    ]
+  },
+  "borough": "Queens",
+  "cuisine": "Greek",
+  "name": "Omonia Cafe"
+},{
+  "_id": {
+    "$oid": "6062e80316237322a8c85343"
+  },
+  "address": {
+    "coord": [
+      -73.9901605,
+      40.7526176
+    ]
+  },
+  "borough": "Manhattan",
+  "cuisine": "American ",
+  "name": "Delmonico'S Kitchen"
+},{
+  "_id": {
+    "$oid": "6062e80416237322a8c854e4"
+  },
+  "address": {
+    "coord": [
+      -73.9707505,
+      40.7635651
+    ]
+  },
+  "borough": "Manhattan",
+  "cuisine": "Delicatessen",
+  "name": "Delmonico Gourmet"
+},{
+  "_id": {
+    "$oid": "6062e80516237322a8c85551"
+  },
+  "address": {
+    "coord": [
+      -73.9760637,
+      40.7508686
+    ]
+  },
+  "borough": "Manhattan",
+  "cuisine": "American ",
+  "name": "Delmonico Gourmet"
+},{
+  "_id": {
+    "$oid": "6062e80516237322a8c856a8"
+  },
+  "address": {
+    "coord": [
+      -73.97198209999999,
+      40.764464
+    ]
+  },
+  "borough": "Manhattan",
+  "cuisine": "American ",
+  "name": "Harmonie Club"
+},{
+  "_id": {
+    "$oid": "6062e80516237322a8c8576c"
+  },
+  "address": {
+    "coord": [
+      -73.79571990000001,
+      40.7095637
+    ]
+  },
+  "borough": "Queens",
+  "cuisine": "Bakery",
+  "name": "Ramona'S Bakery"
+},{
+  "_id": {
+    "$oid": "6062e80516237322a8c857c5"
+  },
+  "address": {
+    "coord": [
+      -73.98463480000001,
+      40.7630755
+    ]
+  },
+  "borough": "Manhattan",
+  "cuisine": "American ",
+  "name": "Neil Simon Theatre"
+},{
+  "_id": {
+    "$oid": "6062e80516237322a8c85827"
+  },
+  "address": {
+    "coord": [
+      -74.028486,
+      40.630438
+    ]
+  },
+  "borough": "Brooklyn",
+  "cuisine": "Mediterranean",
+  "name": "Omonia Cafe"
+},{
+  "_id": {
+    "$oid": "6062e80716237322a8c859d9"
+  },
+  "address": {
+    "coord": [
+      -73.9849976,
+      40.7276766
+    ]
+  },
+  "borough": "Manhattan",
+  "cuisine": "American ",
+  "name": "Simone Bar Cafe"
+},{
+  "_id": {
+    "$oid": "6062e80716237322a8c85c0b"
+  },
+  "address": {
+    "coord": [
+      -74.01032339999999,
+      40.7050156
+    ]
+  },
+  "borough": "Manhattan",
+  "cuisine": "Italian",
+  "name": "Delmonicos"
+},{
+  "_id": {
+    "$oid": "6062e80816237322a8c85d81"
+  },
+  "address": {
+    "coord": [
+      -73.8706606,
+      40.7342757
+    ]
+  },
+  "borough": "Queens",
+  "cuisine": "American ",
+  "name": "Cinnabon World Famous Cinnamon Rolls"
+},{
+  "_id": {
+    "$oid": "6062e80816237322a8c85da5"
+  },
+  "address": {
+    "coord": [
+      -73.9640299,
+      40.807001
+    ]
+  },
+  "borough": "Manhattan",
+  "cuisine": "American ",
+  "name": "Ferris Booth Commons - Alfred Lerner Hall"
+},{
+  "_id": {
+    "$oid": "6062e80816237322a8c85dff"
+  },
+  "address": {
+    "coord": [
+      -74.10465599999999,
+      40.58834
+    ]
+  },
+  "borough": "Staten Island",
+  "cuisine": "American ",
+  "name": "Richmond County Country Club - Pool Snack Bar"
+},{
+  "_id": {
+    "$oid": "6062e80816237322a8c85e00"
+  },
+  "address": {
+    "coord": [
+      -74.1110561,
+      40.5884772
+    ]
+  },
+  "borough": "Staten Island",
+  "cuisine": "American ",
+  "name": "Richmond County Country Club(10Th Hole)"
+},{
+  "_id": {
+    "$oid": "6062e80816237322a8c85e01"
+  },
+  "address": {
+    "coord": [
+      -74.112758,
+      40.5833299
+    ]
+  },
+  "borough": "Staten Island",
+  "cuisine": "American ",
+  "name": "Richmond County Country Club"
+},{
+  "_id": {
+    "$oid": "6062e80916237322a8c8600f"
+  },
+  "address": {
+    "coord": [
+      -73.9410809,
+      40.7036157
+    ]
+  },
+  "borough": "Brooklyn",
+  "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)",
+  "name": "Ramonita'S Restaurant"
+}]
