@@ -1,3 +1,6 @@
+These strings are not queries, but value that should be typed in compass gui.
+Type these string into filter string and choose appropriate fields and limit values.
+
 1){}
 2){}
 3){borough:"Bronx"}
