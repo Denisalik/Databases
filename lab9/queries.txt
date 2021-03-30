@@ -4,6 +4,6 @@ Type these string into filter string and choose appropriate fields and limit val
 1){}
 2){}
 3){borough:"Bronx"}
-4){$or:[{name:/Wil.*/},{cuisine:{$nin:["American ", "Chinese"]}}]}
+4){$or:[{name:/^Wil.*/},{cuisine:{$nin:["American ", "Chinese"]}}]}
 5){name:/.*mon.*/}
 6){borough:{$in:["Staten Island","Queens","Bronx","Brooklyn"]}}
